@@ -1,0 +1,7 @@
+C:\Users\sinanant\C_sharp\Sheet Problem\Problem_2_Multithreading\obj\Debug\Problem_2_Multithreading.csproj.AssemblyReference.cache
+C:\Users\sinanant\C_sharp\Sheet Problem\Problem_2_Multithreading\obj\Debug\Problem_2_Multithreading.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C_sharp\Sheet Problem\Problem_2_Multithreading\bin\Debug\Problem_2_Multithreading.exe.config
+C:\Users\sinanant\C_sharp\Sheet Problem\Problem_2_Multithreading\bin\Debug\Problem_2_Multithreading.exe
+C:\Users\sinanant\C_sharp\Sheet Problem\Problem_2_Multithreading\bin\Debug\Problem_2_Multithreading.pdb
+C:\Users\sinanant\C_sharp\Sheet Problem\Problem_2_Multithreading\obj\Debug\Problem_2_Multithreading.exe
+C:\Users\sinanant\C_sharp\Sheet Problem\Problem_2_Multithreading\obj\Debug\Problem_2_Multithreading.pdb
