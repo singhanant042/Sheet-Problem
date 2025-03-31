@@ -1,0 +1,2 @@
+Area of triangle = 30 
+Area of rectangle = 60 
