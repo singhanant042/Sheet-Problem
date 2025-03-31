@@ -1,0 +1,11 @@
+C:\Users\sinanant\C_sharp\Sheet Problem\Problem-2\obj\Debug\Problem-2.csproj.AssemblyReference.cache
+C:\Users\sinanant\C_sharp\Sheet Problem\Problem-2\obj\Debug\Problem-2.csproj.CoreCompileInputs.cache
+C:\Users\sinanant\C_sharp\Sheet Problem\Problem-2\bin\Debug\Problem-2.exe.config
+C:\Users\sinanant\C_sharp\Sheet Problem\Problem-2\bin\Debug\Problem-2.exe
+C:\Users\sinanant\C_sharp\Sheet Problem\Problem-2\bin\Debug\Problem-2.pdb
+C:\Users\sinanant\C_sharp\Sheet Problem\Problem-2\obj\Debug\Problem-2.exe
+C:\Users\sinanant\C_sharp\Sheet Problem\Problem-2\obj\Debug\Problem-2.pdb
+C:\Users\sinanant\C_sharp\Sheet Problem\Problem-2\bin\Debug\log4net.dll
+C:\Users\sinanant\C_sharp\Sheet Problem\Problem-2\bin\Debug\log4net.pdb
+C:\Users\sinanant\C_sharp\Sheet Problem\Problem-2\bin\Debug\log4net.xml
+C:\Users\sinanant\C_sharp\Sheet Problem\Problem-2\obj\Debug\Problem-2.csproj.CopyComplete

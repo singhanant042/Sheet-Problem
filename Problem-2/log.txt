@@ -1,0 +1,63 @@
+_________
+ Date:2025-03-28 12:27:19,413  
+ Type:INFO  
+ APP:Program 
+ Message:Total loan is=1845.7436409445 
+ 
+_________
+ Date:2025-03-28 13:05:42,409  
+ Type:INFO  
+ APP:Program 
+ Message:Total loan is=8 
+ 
+_________
+ Date:2025-03-28 13:09:11,037  
+ Type:ERROR  
+ APP:Program 
+ Message:System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at Program.Main() in C:\Users\sinanant\C_sharp\Sheet Problem\Problem-2\Program.cs:line 49 
+ 
+_________
+ Date:2025-03-28 13:09:11,068  
+ Type:INFO  
+ APP:Program 
+ Message:Total loan is=8 
+ 
+_________
+ Date:2025-03-28 13:10:38,522  
+ Type:ERROR  
+ APP:Program 
+ Message:FormatException 
+ 
+_________
+ Date:2025-03-28 13:10:38,554  
+ Type:INFO  
+ APP:Program 
+ Message:Total loan is=8 
+ 
+_________
+ Date:2025-03-28 13:19:07,148  
+ Type:INFO  
+ APP:Program 
+ Message:Total loan is 8 
+ 
+_________
+ Date:2025-03-28 13:26:58,152  
+ Type:ERROR  
+ APP:Program 
+ Message:NULL Value 
+ 
+_________
+ Date:2025-03-28 15:24:56,028  
+ Type:INFO  
+ APP:Program 
+ Message:Total loan is 10.0373348499882 
+ 
+2025-03-28 15:34:24,548 [1] INFO  Program - Total loan is 2.95733757288077
+2025-03-28 15:50:46,108 [1] INFO  Program - Total loan is 396458.712507555
+2025-03-28 16:09:41,904 [1] INFO  Program - Total loan is 11.4279086777202
+2025-03-28 16:43:27,066 [1] INFO  Program - Total loan is NaN
+2025-03-28 16:44:11,207 [1] INFO  Program - Total loan is NaN
