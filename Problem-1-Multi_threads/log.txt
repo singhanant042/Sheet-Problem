@@ -1,0 +1,5 @@
+Division of 10 and 5 is 2
+Addtion of 10 and 4 is 14
+Substraction of 10 and 4 is 6
+Multiplication of 10 and 4 is 40
+Division of 10 and 4 is 2.5
